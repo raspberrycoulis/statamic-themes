@@ -31,14 +31,14 @@ If your theme uses additional build tools or packages (e.g., npm), navigate to t
  * Modify the templates in the templates/ folder to suit your content needs.
  * Adjust styles in assets/css/style.css and animations in assets/js/script.js to further personalize your site.
 
-**Usage**
+## Usage
 * Start customizing your site using Statamic’s control panel and the provided theme structure.
 * For more details on configuring and extending Statamic, check out the Statamic Documentation.
 
-**Contributing**
+## Contributing
 
 Contributions are welcome! Fork this repository and submit a pull request with your improvements.
 
-**License**
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
