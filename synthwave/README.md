@@ -25,6 +25,7 @@ If your theme uses additional build tools or packages (e.g., npm), navigate to t
    ```bash
    cd synthwave
    npm install
+   ```
 
 5.	Customisation:
 	•	Modify the templates in the templates/ folder to suit your content needs.
